@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAztek
-- 👀 I’m interested in phyton php SQL
+- 👀 I’m interested in python php SQL
 - 🌱 I’m currently learning everything 😅
 - 💞️ I’m looking to collaborate on nothing at the moment...just learning 💪
 - 📫 How to reach me? Don't know yet!
